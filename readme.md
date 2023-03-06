@@ -1,4 +1,4 @@
-# NPlug.Samples
+# NPlug.Samples [![Build Status](https://github.com/xoofx/NPlug.Samples/workflows/ci/badge.svg?branch=main)](https://github.com/xoofx/NPlug.Samples/actions)
 
 <img align="right" width="160px" height="160px" src="https://raw.githubusercontent.com/xoofx/NPlug/main/img/NPlug.png">
 
