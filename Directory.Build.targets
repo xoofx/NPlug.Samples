@@ -1,7 +1,6 @@
 <Project>
-  <Import Condition="'$(NPlugSampleInRepo)' == 'true'" Project="$(NPlugSampleTargetsFile)"/>
-
-  <ItemGroup Condition="'$(NPlugSampleInRepo)' != 'true'">
-    <PackageReference Include="NPlug" Version="0.*"/>
+  <Import Condition="'$(SolutionName)' == 'NPlug'" Project="$(NPlugSampleTargetsFile)"/>
+  <ItemGroup Condition="'$(SolutionName)' != 'NPlug'">
+    <PackageReference Include="NPlug" Version="0.*" />
   </ItemGroup>
 </Project>

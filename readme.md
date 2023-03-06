@@ -8,6 +8,12 @@ This repository provides samples for creating VST3 audio native plugins with [NP
 
 You need to have installed [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0).
 
+Then you can build native plugins by running the following command:
+
+```
+dotnet publish -c Release -r win-x64 -p:PublishAot=true
+```
+
 ### NPlug.SimpleDelay
 
 This is a port of C/C++ adelay sample from https://github.com/steinbergmedia/vst3_public_sdk/tree/master/samples/vst/adelay/source

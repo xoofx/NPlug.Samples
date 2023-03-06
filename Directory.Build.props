@@ -1,6 +1,5 @@
 <Project>
   <PropertyGroup>
     <NPlugSampleTargetsFile>$(MSBuildThisFileDirectory)../src/NPlug.samples.targets</NPlugSampleTargetsFile>
-    <NPlugSampleInRepo Condition="Exists('$(NPlugSampleTargetsFile)')">true</NPlugSampleInRepo>
   </PropertyGroup>
 </Project>
