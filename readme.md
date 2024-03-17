@@ -40,5 +40,5 @@ What it means is that you are allowed to modify and redistribute NPlug (accordin
 
 ## Author
 
-Alexandre Mutel aka [xoofx](https://xoofx.com).
+Alexandre Mutel aka [xoofx](https://xoofx.github.io).
 
