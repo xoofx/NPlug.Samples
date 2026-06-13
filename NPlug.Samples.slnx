@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Build.targets" />
+    <File Path="global.json" />
+    <File Path="license.txt" />
+    <File Path="readme.md" />
+  </Folder>
+  <Project Path="NPlug.SimpleDelay/NPlug.SimpleDelay.csproj" />
+  <Project Path="NPlug.SimpleProgramChange/NPlug.SimpleProgramChange.csproj" />
+</Solution>
